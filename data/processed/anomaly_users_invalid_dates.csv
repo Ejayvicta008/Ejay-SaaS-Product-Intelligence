@@ -1,0 +1,3 @@
+user_id,organization_id,email,role,joined_on,deactivated_on
+4423,129,malik.ferreira4422@example.com,member,2026-01-01,2025-12-31
+18110,129,sofia.vogt18109@example.com,member,2026-01-01,2025-12-31

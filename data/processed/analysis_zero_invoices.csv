@@ -1,0 +1,5 @@
+status,plan_name,tier,invoice_count
+failed,Free,free,586
+open,Free,free,189
+paid,Free,free,7400
+refunded,Free,free,255
