@@ -10,4 +10,3 @@ Dashboards – Screenshots and descriptions of the Tableau and Power BI dashboar
 Project Structure – Repository folder layout.
 How to Run – Setup instructions and execution steps.
 Limitations & Assumptions – Important metric definitions and dataset limitations.
-Author – Your professional background and project purpose.
